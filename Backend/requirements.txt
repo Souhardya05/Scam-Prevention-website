@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+scikit-learn
+joblib
+python-multipart
+librosa
+pillow
+pydantic

@@ -1,0 +1,18 @@
+body {
+    background: #f7f9fc;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .card {
+    border-radius: 12px;
+  }
+  
+  .card-header {
+    font-size: 1.2rem;
+  }
+  
+  .alert {
+    white-space: pre-wrap;
+    font-weight: 500;
+  }
+  
